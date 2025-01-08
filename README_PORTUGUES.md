@@ -76,9 +76,10 @@ Os principais insights obtidos incluem:
 
 
 # Detalhamento Estatístico
-![Captura de Tela (811)](https://github.com/user-attachments/assets/9de5a9b7-79f5-411c-b231-f31b22433dfb)
 
 Análises específicas baseadas nos aspectos do resumo executivo:
+![Captura de Tela (811)](https://github.com/user-attachments/assets/9de5a9b7-79f5-411c-b231-f31b22433dfb)
+
 #### Colesterol e Doenças Cardíacas: 
 - A média geral dos níveis de colesterol na população é 1,37, com desvio padrão de 0,68. Indivíduos com diagnóstico positivo têm uma média de colesterol de 1,87, significativamente maior do que os sem diagnóstico (1,12).
 #### Pressão Arterial: 
